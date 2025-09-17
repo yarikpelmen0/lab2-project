@@ -1,2 +1,2 @@
 # lab2-project
-# project with calculator and greeter functions
+# Hello, it`s a project with calculator and greeter functions
